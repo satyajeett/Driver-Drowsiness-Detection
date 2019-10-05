@@ -1,4 +1,3 @@
-__future__
 dlib
 cv2
 imutils
