@@ -1,0 +1,7 @@
+___future___
+dlib
+cv2
+imutils
+numpy
+scipy
+pygame
