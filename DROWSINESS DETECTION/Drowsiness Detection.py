@@ -1,4 +1,4 @@
-#Made_BY:_Satyajeet_Sharma_2019
+#Made_BY:_Satyajeet_Sharma_&_Samarth Madan_2020
 
 from __future__ import division
 import dlib
